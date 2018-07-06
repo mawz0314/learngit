@@ -3,3 +3,4 @@ Git is free software.
 never use git
 Git has a mutable index called stage.
 添加一i行。
+有添加了一行
