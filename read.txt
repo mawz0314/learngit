@@ -1,5 +1,8 @@
 Git is a distributed version control system.
 Git is free software.
+
+--添加了新功能
+
 never use git
 Git has a mutable index called stage.
 添加一i行。
